@@ -1,0 +1,6 @@
+/Volumes/Dev/Formations/DependencyInjectionAutofac/DemoLibrary/bin/Debug/DemoLibrary.dll
+/Volumes/Dev/Formations/DependencyInjectionAutofac/DemoLibrary/bin/Debug/DemoLibrary.pdb
+/Volumes/Dev/Formations/DependencyInjectionAutofac/DemoLibrary/obj/Debug/DemoLibrary.csprojAssemblyReference.cache
+/Volumes/Dev/Formations/DependencyInjectionAutofac/DemoLibrary/obj/Debug/DemoLibrary.csproj.CoreCompileInputs.cache
+/Volumes/Dev/Formations/DependencyInjectionAutofac/DemoLibrary/obj/Debug/DemoLibrary.dll
+/Volumes/Dev/Formations/DependencyInjectionAutofac/DemoLibrary/obj/Debug/DemoLibrary.pdb
