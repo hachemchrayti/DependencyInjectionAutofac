@@ -1,0 +1,10 @@
+/Volumes/Dev/Formations/DependencyInjectionAutofac/ConsoleUI/bin/Debug/ConsoleUI.exe.config
+/Volumes/Dev/Formations/DependencyInjectionAutofac/ConsoleUI/bin/Debug/ConsoleUI.exe
+/Volumes/Dev/Formations/DependencyInjectionAutofac/ConsoleUI/bin/Debug/ConsoleUI.pdb
+/Volumes/Dev/Formations/DependencyInjectionAutofac/ConsoleUI/bin/Debug/DemoLibrary.dll
+/Volumes/Dev/Formations/DependencyInjectionAutofac/ConsoleUI/bin/Debug/DemoLibrary.pdb
+/Volumes/Dev/Formations/DependencyInjectionAutofac/ConsoleUI/obj/Debug/ConsoleUI.csprojAssemblyReference.cache
+/Volumes/Dev/Formations/DependencyInjectionAutofac/ConsoleUI/obj/Debug/ConsoleUI.csproj.CoreCompileInputs.cache
+/Volumes/Dev/Formations/DependencyInjectionAutofac/ConsoleUI/obj/Debug/ConsoleUI.csproj.CopyComplete
+/Volumes/Dev/Formations/DependencyInjectionAutofac/ConsoleUI/obj/Debug/ConsoleUI.exe
+/Volumes/Dev/Formations/DependencyInjectionAutofac/ConsoleUI/obj/Debug/ConsoleUI.pdb
